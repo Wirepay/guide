@@ -1,3 +1,23 @@
+# 2023-05-09
+
+- Test tables: Discourage tables with complex, branching test bodies.
+
+# 2023-04-13
+
+- Errors: Add guidance on handling errors only once.
+
+# 2023-03-03
+
+- Receivers and Interfaces: Clarify subtlety with pointer receivers and values.
+
+# 2022-10-18
+
+- Add guidance on managing goroutine lifecycles.
+
+# 2022-03-30
+
+- Add guidance on using field tags in marshaled structs.
+
 # 2021-11-16
 
 - Add guidance on use of `%w` vs `%v` with `fmt.Errorf`, and where to use
